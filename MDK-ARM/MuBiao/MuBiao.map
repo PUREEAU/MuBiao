@@ -3045,31 +3045,31 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       870          0          0          0          0      23135   fashion_star_uart_servo.o
-       164          0          0          0          0       1572   gpio.o
-       454          0          0          1         21       8077   main.o
-      2986          0          0          0       1024      51145   oled.o
-         0          0       2349          0          0        772   oled_data.o
-      2094          0          0          0          0      21716   ring_buffer.o
-        36          8        236          0       1024        780   startup_stm32f103xb.o
-       188          0          0          8          4       5750   stm32f1xx_hal.o
-       196          0          0          0          0       8404   stm32f1xx_hal_cortex.o
-       252          0          0          0          0       8271   stm32f1xx_hal_dma.o
-       546         22          0          0          0       4678   stm32f1xx_hal_gpio.o
-        66          0          0          0          0       1199   stm32f1xx_hal_msp.o
-      1542          0         18          0          0       7938   stm32f1xx_hal_rcc.o
-      1178          0          0          0          0      57657   stm32f1xx_hal_tim.o
-       130          0          0          0          0      20899   stm32f1xx_hal_tim_ex.o
-      2376          0          0          0          0      32610   stm32f1xx_hal_uart.o
-        56          0          0          0          0       5643   stm32f1xx_it.o
-         2          0         24          4          0       1588   system_stm32f1xx.o
-       140          0          0          0          4       4549   tick.o
-       174          0          0          0         72       5910   tim.o
-       522          0          0          4       1182       6510   usart.o
-      2364         20         11          1         61       6832   work.o
+       870          0          0          0          0      23126   fashion_star_uart_servo.o
+       164          0          0          0          0       1563   gpio.o
+       454          0          0          1         21       8068   main.o
+      2986          0          0          0       1024      51136   oled.o
+         0          0       2349          0          0        763   oled_data.o
+      2094          0          0          0          0      21707   ring_buffer.o
+        36          8        236          0       1024        776   startup_stm32f103xb.o
+       188          0          0          8          4       5741   stm32f1xx_hal.o
+       196          0          0          0          0       8395   stm32f1xx_hal_cortex.o
+       252          0          0          0          0       8262   stm32f1xx_hal_dma.o
+       546         22          0          0          0       4669   stm32f1xx_hal_gpio.o
+        66          0          0          0          0       1190   stm32f1xx_hal_msp.o
+      1542          0         18          0          0       7929   stm32f1xx_hal_rcc.o
+      1178          0          0          0          0      57648   stm32f1xx_hal_tim.o
+       130          0          0          0          0      20890   stm32f1xx_hal_tim_ex.o
+      2376          0          0          0          0      32601   stm32f1xx_hal_uart.o
+        56          0          0          0          0       5634   stm32f1xx_it.o
+         2          0         24          4          0       1579   system_stm32f1xx.o
+       140          0          0          0          4       4540   tick.o
+       174          0          0          0         72       5901   tim.o
+       522          0          0          4       1182       6501   usart.o
+      2364         20         11          1         61       6823   work.o
 
     ----------------------------------------------------------------------
-     16452         50       2672         20       3404     285635   Object Totals
+     16452         50       2672         20       3404     285442   Object Totals
          0          0         32          0          0          0   (incl. Generated)
        116          0          2          2         12          0   (incl. Padding)
 
@@ -3134,8 +3134,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     20844        154       2672         20       3404     286691   Grand Totals
-     20844        154       2672         20       3404     286691   ELF Image Totals
+     20844        154       2672         20       3404     286498   Grand Totals
+     20844        154       2672         20       3404     286498   ELF Image Totals
      20844        154       2672         20          0          0   ROM Totals
 
 ==============================================================================
